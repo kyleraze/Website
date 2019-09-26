@@ -12,7 +12,7 @@
 theme = "default"
 
 # Enable users to switch between day and night mode?
-day_night = false
+day_night = true
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -97,7 +97,7 @@ address = {street = "1415 Kincaid Street", city = "Eugene", region = "OR", postc
 coordinates = {latitude = "44.044283", longitude = "-123.078317"}
 
 # Directions for visitors to locate you.
-directions = "Office: 522 Prince Lucien Campbell Hall (on the fifth floor)"
+directions = "Office: 522 Prince Lucien Campbell Hall (on the fifth floor; use the elevator at your own risk)"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -166,7 +166,7 @@ link_authors = true
 # Load CSS and JS plugins
 #   E.g. To load `/assets/css/custom.css`, set `plugins_css = ["custom"]`.
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
-plugins_css = ["default"]
+plugins_css = []
 plugins_js  = []
 
 # Configuration of publication pages.
