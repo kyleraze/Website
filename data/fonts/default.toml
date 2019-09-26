@@ -1,0 +1,11 @@
+# Font style metadata
+name = "default"
+
+# Optional Google font URL
+google_fonts = "Fira+Code|Fira+Sans"
+
+# Font families
+heading_font = "Fira Sans"
+body_font = "Fira Sans"
+nav_font = "Fira Sans"
+mono_font = "Fira Code"
