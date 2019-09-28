@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | Kyle C. Raze</title>
+    <link>/research/</link>
+      <atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Research</title>
+      <link>/research/</link>
+    </image>
+    
+    <item>
+      <title>Working Papers</title>
+      <link>/research/working_papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/research/working_papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Works in Progress</title>
+      <link>/research/works_in_progress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/research/works_in_progress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/research/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

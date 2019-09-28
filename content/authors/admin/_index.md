@@ -1,8 +1,8 @@
 ---
 authors:
 - admin
-bio: My research interests include applied microeconometrics, the economics of education,
-  and labor economics. 
+bio: I am an applied microeconomist with broad research interests in applied microeconometrics, the economics of education,
+  and labor economics. I teach courses in labor, econometrics, and introductory microeconomics at the undergraduate level. 
 education:
   courses:
   - course: Ph.D. in Economics
@@ -10,7 +10,7 @@ education:
     year: expected 2021
   - course: M.S. in Economics
     institution: University of Oregon
-    year: 2018
+    year: 2017
   - course: B.A. in Economics and Political Science
     institution: University of Oregon
     year: 2015
@@ -37,4 +37,4 @@ user_groups:
 - Visitors
 ---
 
-I am a doctoral student studying economics at the University of Oregon. 
+I am an applied microeconomist with broad research interests in applied microeconometrics, the economics of education, and labor economics. I teach courses in labor, econometrics, and introductory microeconomics at the undergraduate level.
