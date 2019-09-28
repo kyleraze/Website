@@ -17,8 +17,6 @@ image:
 projects: []
 ---
 
-# Teaching
-
 ### EC 201: Principles of Microeconomics
 
 The purpose of this course is to cultivate economic intuition. My goal is not to teach students *what to think*, but rather *how to think* as an economist. The course considers how social outcomes are shaped by the decisions of many individuals, even though each individual commands only a small fraction of the economy. Expanding upon the notion that individuals respond to incentives, students will use models to analyze and assess a variety of social phenomena. Successful students will leave the course with an intellectual framework for understanding and evaluating economic issues and policy.
