@@ -12,5 +12,14 @@
       <link>/authors/</link>
     </image>
     
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am an applied microeconomist with broad research interests in applied microeconometrics, the economics of education, and labor economics. I teach courses in labor, econometrics, and introductory microeconomics at the undergraduate level.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
