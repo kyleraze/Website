@@ -21,9 +21,9 @@ projects: []
 
 #### "Voter Suppression? Evidence from *Shelby County v. Holder*" [[PDF](/files/voter_suppression.pdf)]
 
-- Robust evidence shows that the Voting Rights Act increased voter turnout among citizens of color, with signifcant downstream efects on representation, school funding, and the black-white wage gap. In 2013, the Supreme Court's ruling in *Shelby County v. Holder* and subsequent Congressional inaction ended preclearance--a key enforcement mechanism of the Voting Rights Act. 
-- To assess whether the removal of preclearance reduced voter turnout and support for Democratic presidential candidates, I leverage diference-in-diferences variation in preclearance removal using county election returns and national election surveys. 
-- I find little evidence that preclearance removal reduced voter turnout, either overall or among voters of color. In contrast to journalistic accounts, I show that preclearance removal may have increased Democratic vote share.
+- Robust evidence shows that the Voting Rights Act increased voter turnout among citizens of color, with signifcant downstream effects on representation, school funding, and the black-white wage gap. In 2013, the Supreme Court's ruling in *Shelby County v. Holder* and subsequent Congressional inaction ended preclearance--a key enforcement mechanism of the Voting Rights Act. 
+- To assess whether the removal of preclearance reduced voter turnout, I leverage diference-in-diferences variation in preclearance removal using county election returns and national election surveys. 
+- I find little evidence that preclearance removal reduced voter turnout, either overall or among voters of color. 
 
 ## Works in Progress
 
