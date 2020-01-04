@@ -103,7 +103,7 @@ directions = "522 Prince Lucien Campbell Hall, University of Oregon, Eugene"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Tuesday 15:00 to 16:00", "Thursday 10:00 to 11:00", "or by appointment"]
+office_hours = ["Monday 14:00 to 15:00", "Tuesday 15:00 to 16:00", "or by appointment"]
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
