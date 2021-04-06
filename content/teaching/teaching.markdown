@@ -19,7 +19,7 @@ projects: []
 
 ### EC 201: Principles of Microeconomics
 
-The purpose of this course is to cultivate economic intuition. My goal is not to teach students *what to think*, but rather *how to think* as  economists. The course considers how social outcomes are shaped by the decisions of many individuals, even though each individual commands only a small fraction of the economy. Expanding upon the notion that individuals respond to incentives, students will use models to analyze and assess a variety of social phenomena. Successful students will leave the course with an intellectual framework for understanding and evaluating economic issues and policy.
+The purpose of this course is to cultivate economic intuition. My goal is not to teach students *what to think*, but rather *how to think* as economists. The course considers how social outcomes are shaped by the decisions of many individuals, even though each individual commands only a small fraction of the economy. Expanding upon the notion that individuals respond to incentives, students will use models to analyze and assess a variety of social phenomena. Successful students will leave the course with an intellectual framework for understanding and evaluating economic issues and policy.
 
 - Instructor of Record: Winter 2019, Winter 2020
 - Teaching Assistant: Spring 2017, Spring 2018, Fall 2018, Spring 2019
@@ -30,11 +30,12 @@ This course introduces the statistical techniques that help economists learn abo
 
 - Instructor of Record: Summer 2019, Fall 2019
 
-### EC 350: Issues in Labor Economics
+### EC 350: Labor Economics
 
-In this course, students will explore issues in the labor market using insights from economic theory and empirical papers. In the spirit of the "issues" moniker, the course examines some of the potential causes of wage inequality, such as human capital, compensating wage differentials, discrimination, the decline of organized labor, and assortative matching. My hope is that students leave the course with a more nuanced understanding of the mechanisms that drive wage inequality in the labor market.
+This course applies insights from economic theory and real-world data to explore the causes of inequality in the labor market. Building upon concepts from introductory microeconomics, we will analyze the responses of workers and employers to changes in incentives, and consider the roles of policy, institutions, and other social phenomena in shaping labor market outcomes. As part of this line of inquiry, we will develop a toolkit that integrates theory and data, paying special attention to the ways in which we can identify--or fail to identify--causal relationships from data. Beyond refining their understanding of mechanisms that drive income inequality, successful students will leave the course with a framework for evaluating evidence and policy.
 
-- Instructor of Record: Summer 2018
+
+- Instructor of Record: Summer 2018, Spring 2021
 
 ### EC 101: Contemporary Economic Issues
 
