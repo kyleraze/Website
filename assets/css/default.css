@@ -3,5 +3,12 @@ border-radius: initial !important;
 }
 
 .mono {
-  font-family: 'Fira Code';
+  font-family: 'Roboto Mono';
+}
+
+blockquote {
+  padding: 10px 20px;
+  margin: 0 0 20px;
+  font-size: 14px;
+  border-left: 5px solid #eee;
 }

@@ -1,29 +1,37 @@
 ---
 authors:
 - admin
-bio: I am an applied microeconomist with broad research interests in applied microeconometrics, the economics of education,
-  and labor economics. I teach courses in labor, econometrics, and introductory microeconomics at the undergraduate level. 
+
+bio: I am an applied microeconometrician with broad research interests in education, labor, and politics.
+
 education:
   courses:
-  - course: Ph.D. in Economics
+  - course: PhD in Economics
     institution: University of Oregon
-    year: expected 2021
-  - course: M.S. in Economics
+    year: expected 2022
+  - course: MS in Economics
     institution: University of Oregon
     year: 2017
-  - course: B.A. in Economics and Political Science
+  - course: BA in Economics and Political Science
     institution: University of Oregon
     year: 2015
+
 email: raze@uoregon.edu
+
 interests:
 - Applied Microeconometrics
 - Economics of Education
 - Labor Economics
-name: Kyle C. Raze
+- Public Economics
+
+name: Kyle Raze
+
 organizations:
 - name: University of Oregon
   url: ""
-role: Doctoral Student
+
+role: PhD Candidate
+
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,10 +39,13 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/kyleraze
+
 superuser: true
-user_groups:
-- Researchers
-- Visitors
+
+# user_groups:
+# - Researchers
+# - Visitors
+
 ---
 
-I am an applied microeconomist with broad research interests in applied microeconometrics, the economics of education, and labor economics. I teach courses in labor, econometrics, and introductory microeconomics at the undergraduate level.
+I am an applied microeconometrician with broad research interests in education, labor, and politics. I employ experimental and quasi-experimental methods to identify causal relationships that can inform policy. Among my current projects, I examine issues of racial inequality and discrimination in school discipline, job search, and voting.
