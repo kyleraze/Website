@@ -48,4 +48,4 @@ superuser: true
 
 ---
 
-I am an applied microeconometrician with broad research interests in education, labor, and politics. I employ experimental and quasi-experimental methods to identify causal relationships that can inform policy. Among my current projects, I examine issues of racial inequality and discrimination in school discipline, job search, and voting.
+I am an applied microeconometrician with broad research interests in education, labor, and politics. I employ experimental and quasi-experimental methods to identify causal relationships that can inform policy. Through my work, I examine issues of racial inequality and discrimination in school discipline, job search, and voting.
