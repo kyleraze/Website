@@ -33,6 +33,10 @@ projects: []
 
 **Skill Appraisal Under Incomplete Information: If You Only Knew One Thing About Me, Would Your Guess About Other Things Depend on My Race and Gender?** (with Glen Waddell)
 
-**More Than a Free Lunch: The Impact of Universal Free School Meals on Externalizing Behaviors**
+**Recreational Dispensaries and Student Infractions: Evidence from a License Lottery**
 
-**Evaluation Efficacy: How Do Students Respond to Relative Performance Feedback?** (with Glen Waddell)
+**Race, Gender, and Second Chances: Do Employers Engage More with Some Candidates than with Others?** (with Glen Waddell)
+
+**Losing Consensus: Does the Role of Juries Change in an Age of Political Polarization?** (with Glen Waddell)
+
+**Getting the Hard Ones Right: How Relative Performance Feedback on Specific Questions Affects Student Performance** (with Glen Waddell)
