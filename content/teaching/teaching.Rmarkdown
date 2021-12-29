@@ -33,7 +33,7 @@ projects: []
 [**EC 350: Labor Economics**](https://github.com/kyleraze/EC350_Labor_Economics)
 
 > **Description:** This course applies insights from economic theory and real-world data to explore the causes of inequality in the labor market. Building upon concepts from introductory microeconomics, we will analyze the responses of workers and employers to changes in incentives, and consider the roles of policy, institutions, and other social phenomena in shaping labor market outcomes. As part of this line of inquiry, we will develop a toolkit that integrates theory and data, paying special attention to the ways in which we can identify--or fail to identify--causal relationships from data. Beyond refining their understanding of mechanisms that drive income inequality, successful students will leave the course with a framework for evaluating evidence and policy.  
-> **Instructor of Record:** Summer 2018, Spring 2021
+> **Instructor of Record:** Summer 2018, Spring 2021, Winter 2022
 
 **EC 101: Contemporary Economic Issues**
 
