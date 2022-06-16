@@ -30,7 +30,7 @@ projects: []
 
 **[Does the Salience of Race Mitigate Gaps in Disciplinary Outcomes? Evidence from School Fights](/files/RazeWaddell_Salience-of-Race.pdf)** (with Glen Waddell)
 
-> **Abstract:** Racial gaps in schools' disciplinary actions are well documented---for similar behaviors, students of color are more likely to be disciplined and discipline tends to be harsher. Using incident-level data, we identify differential treatment across the racial composition of incidents. While students of color receive harsher punishments on average, we show that this differential is driven by incidents without white students. Consistent with administrators correcting biases when cues for equal treatment are more salient, multiracial incidents evidence no differentials---when a white student is implicated in the same incident, punishments imposed on students of color are indistinguishable from those of white students.
+> **Abstract:** Racial gaps in the adjudication of student misconduct are well documented---for similar behaviors, students of color are more likely to be disciplined and discipline tends to be	harsher. While students of color do receive harsher punishments, on average, we show that this differential depends on the racial composition of incidents. Consistent with	administrators moving toward equal treatment when variation in race is more salient, multi-race incidents evidence no differentials in our data. In fact, when a white student is implicated in the same incident as a student of color, punishments imposed on students of color are indistinguishable from those imposed on white students in all-white incidents. 
 
 ### Work in Progress
 
