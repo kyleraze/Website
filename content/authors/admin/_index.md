@@ -27,10 +27,10 @@ interests:
 name: Kyle Raze
 
 organizations:
-- name: University of Oregon
+- name: U.S. Equal Employment Opportunity Commission
   url: ""
 
-role: PhD Candidate
+role: Economist
 
 social:
 - icon: envelope

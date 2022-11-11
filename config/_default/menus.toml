@@ -19,8 +19,3 @@
   name = "CV"
   url = "files/Raze_CV.pdf"
   weight = 30
-  
-[[main]]
-  name = "Contact"
-  url = "/contact/#contact"
-  weight = 40
