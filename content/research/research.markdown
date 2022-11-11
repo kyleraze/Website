@@ -34,10 +34,6 @@ projects: []
 
 ### Work in Progress
 
-**Skill Appraisal Under Incomplete Information: If You Only Knew One Thing About Me, Would Your Guess About Other Things Depend on My Race and Gender?** (with Glen Waddell)
-
-**Recreational Dispensaries and Student Infractions: Evidence from a License Lottery**
-
 **Race, Gender, and Second Chances: Do Employers Engage More with Some Candidates than with Others?** (with Glen Waddell)
 
 **Losing Consensus: Does the Role of Juries Change in an Age of Political Polarization?** (with Glen Waddell)
